@@ -1,6 +1,6 @@
 {
   "name": "aj2006-latest-currency-converter",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "It converts currency ",
   "main": "index.js",
   "type": "module",
